@@ -1,0 +1,17 @@
+CreditCard,
+lender,a
+balance,1000
+minPay,15
+rate,12
+CreditCard,
+lender,b
+balance,565.33
+minPay,10
+rate,26.5
+Mortgage,
+loan,205500
+term,30
+rate,4.5
+Savings,
+account,4444
+balance,200.55
